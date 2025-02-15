@@ -3,7 +3,9 @@
 
 
 ![image](./image/kredi-hesaplama-aracı.png)
+
 <hr>
+
 ![image](./image/faiz-formulu.png)
 
 
